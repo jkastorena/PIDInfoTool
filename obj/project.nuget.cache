@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "J002mQiIEL/lkec83ViJpq+0FGCFrO/Tbpf54ZbDrQHklTshbxPTLyC1Fpv/endWXeQLucFkeLm2toT/o5gJ5A==",
+  "success": true,
+  "projectFilePath": "E:\\Repos\\C#\\PIDInfoTool\\PIDInfoTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JCastorena\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\JCastorena\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
